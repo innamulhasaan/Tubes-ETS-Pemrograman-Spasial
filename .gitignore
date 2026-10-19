@@ -3,3 +3,4 @@
 *.jp2
 *.gdb/
 *.tif
+!data/*.tif
